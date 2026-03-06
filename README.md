@@ -7,6 +7,7 @@
 [exemplo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/exemplo_moscow.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/introducao.md) <br>
 [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/metodo_moscow.md) <br>
+[modelo_cascata.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/modelo_cascata.md) <br>
 [modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/modelo_kano.md) <br>
 [requisitos_funcionais_nao_funcionais_metodos_priorizacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/requisitos_funcionais_nao_funcionais_metodos_priorizacao.md) <br>
 [tecnica_pontuacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/tecnica_pontuacao.md) <br>
