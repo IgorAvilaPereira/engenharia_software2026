@@ -15,7 +15,6 @@ A disciplina ensina como **planejar, modelar, documentar e projetar softwares**,
 * **Linguagens de modelagem**
 
   * UML (Unified Modeling Language).
-  * BPMN (Business Process Model and Notation).
   * Modelos de casos de uso, classes, sequência, estados, atividades, etc.
 
 * **Paradigmas e processos de desenvolvimento de software**
@@ -26,7 +25,7 @@ A disciplina ensina como **planejar, modelar, documentar e projetar softwares**,
 
 * **Ferramentas visuais de modelagem e projeto**
 
-  * CASE tools (Computer-Aided Software Engineering), como Enterprise Architect, Visual Paradigm, Lucidchart, StarUML.
+  * CASE tools (Computer-Aided Software Engineering), como Astah, Visual Paradigm, Lucidchart, StarUML.
   * Ferramentas de prototipação de interface (Figma, Balsamiq, Adobe XD).
   
   
