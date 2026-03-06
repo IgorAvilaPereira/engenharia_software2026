@@ -1,6 +1,7 @@
 # engenharia_software2026 <br>
 ## [./01_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula) <br>
 [analise_valor_risco.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/analise_valor_risco.md) <br>
+[demais_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/demais_requisitos.md) <br>
 [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/ementa.md) <br>
 [estrutura_tipica_documento_ers.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/estrutura_tipica_documento_ers.md) <br>
 [exemplo_documento_ers.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/exemplo_documento_ers.md) <br>
