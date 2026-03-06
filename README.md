@@ -3,6 +3,7 @@
 [analise_valor_risco.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/analise_valor_risco.md) <br>
 [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/ementa.md) <br>
 [exemplo_documento_ers.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/exemplo_documento_ers.md) <br>
+[exemplo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/exemplo_moscow.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/introducao.md) <br>
 [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/metodo_moscow.md) <br>
 [modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/modelo_kano.md) <br>
