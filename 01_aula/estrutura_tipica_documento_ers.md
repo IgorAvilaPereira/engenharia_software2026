@@ -155,7 +155,7 @@ Dentro dos **requisitos específicos** ficam:
 * requisitos funcionais
 * requisitos não funcionais
 * casos de uso
-* prioridades (MoSCoW)
+* prioridades (MoSCoW ou etc.)
 
 
 
