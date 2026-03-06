@@ -10,6 +10,7 @@
 [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/metodo_moscow.md) <br>
 [modelo_cascata.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/modelo_cascata.md) <br>
 [modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/modelo_kano.md) <br>
+[principais_metodos_priorizacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/principais_metodos_priorizacao_requisitos.md) <br>
 [principais_processos_de_desenvolvimento_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/principais_processos_de_desenvolvimento_software.md) <br>
 [principais_tecnicas_prospeccao_de_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/principais_tecnicas_prospeccao_de_requisitos.md) <br>
 [requisitos_funcionais_nao_funcionais_metodos_priorizacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/requisitos_funcionais_nao_funcionais_metodos_priorizacao.md) <br>
