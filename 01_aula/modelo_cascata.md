@@ -14,12 +14,11 @@ Ele é um **modelo de processo** usado para organizar as etapas de criação de 
 
 No modelo em cascata, o desenvolvimento ocorre em **etapas sequenciais**, como uma “cascata”, onde uma fase termina antes da próxima começar:
 
-1. **Levantamento de requisitos**
-2. **Análise do sistema**
-3. **Projeto (design)**
-4. **Implementação (codificação)**
-5. **Testes**
-6. **Manutenção**
+1. **Análise do sistema e definição de requisitos**
+2. **Projeto de sistema e software**
+3. **Implementação e teste de unidade**
+4. **Integraçaõ e Testes**
+5. **Operação e Manutenção**
 
 Cada fase depende da conclusão da anterior.
 
