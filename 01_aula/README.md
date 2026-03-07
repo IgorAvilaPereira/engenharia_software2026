@@ -3,7 +3,7 @@
 1. [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 2. [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 
-$## 2. Documentação de Software (ERS)
+### 2. Documentação de Software (ERS)
 
 3. [estrutura_tipica_documento_ers.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 4. [exemplo_documento_ers.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
