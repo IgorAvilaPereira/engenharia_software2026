@@ -1,8 +1,6 @@
 ### 1. Introdução
 
-
-
-1. [introducao.md](./arquivos/introducao.md)
+1. [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 2. [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 
 ### 2. Documentação de Software (ERS)
