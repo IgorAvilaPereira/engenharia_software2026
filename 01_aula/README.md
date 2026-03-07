@@ -35,3 +35,6 @@ Exemplos:
 
 16. [principais_processos_de_desenvolvimento_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 17. [modelo_cascata.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
+
+
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula)
