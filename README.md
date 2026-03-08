@@ -14,7 +14,8 @@
 
 ### 3. Engenharia de Requisitos
 
-5. [principais_tecnicas_prospeccao_de_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/principais_tecnicas_prospeccao_de_requisitos.md)
+5. [tecnicas_elicitacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/tecnicas_elicitacao_requisitos.md)>
+	* [Resumo](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/principais_tecnicas_prospeccao_de_requisitos.md)-->
 6. [requisitos_funcionais_nao_funcionais_metodos_priorizacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/requisitos_funcionais_nao_funcionais_metodos_priorizacao.md)
 7. [demais_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/demais_requisitos.md)
 
@@ -42,7 +43,6 @@ Exemplos:
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula)
-[tecnicas_elicitacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/tecnicas_elicitacao_requisitos.md) <br>
 [arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/extras) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
