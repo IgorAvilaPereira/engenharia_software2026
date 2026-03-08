@@ -24,15 +24,17 @@
 Métodos:
 
 9. [metodo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/metodo_moscow.md)
+* [exemplo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/exemplo_moscow.md)
+
 10. [modelo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/modelo_kano.md)
+
+* [exemplo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/exemplo_kano.md)
+* [kano_vs_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/kano_vs_moscow.md)
+
 11. [tecnica_pontuacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/tecnica_pontuacao.md)
 12. [tecnica_rice.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/tecnica_rice.md)
 13. [analise_valor_risco.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/analise_valor_risco.md)
 
-Exemplos:
-
-14. [exemplo_moscow.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/exemplo_moscow.md)
-15. [exemplo_kano.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/exemplo_kano.md)
 
 ### 5. Processos de Desenvolvimento de Software
 
