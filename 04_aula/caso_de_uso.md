@@ -8,18 +8,21 @@ Ele mostra **o que o sistema faz**, do ponto de vista do usuário, **sem mostrar
 ---
 
 # Elementos de um Diagrama de Caso de Uso
+Em **diagramas de caso de uso** da **UML**, utilizados na **Engenharia de Software**, existem alguns **elementos principais** que representam os participantes do sistema, suas funcionalidades e os relacionamentos entre eles.
+
+---
 
 ## 1. Ator
 
-Representa **quem interage com o sistema**.
+O **ator** representa **quem interage com o sistema**.
 
 Pode ser:
 
-* pessoa
+* um usuário (pessoa)
 * outro sistema
-* organização
+* um dispositivo externo
 
-Representação: **boneco**
+Representação: **boneco (stickman)**.
 
 Exemplos:
 
@@ -31,39 +34,54 @@ Exemplos:
 
 ## 2. Caso de uso
 
-Representa **uma funcionalidade do sistema**.
+O **caso de uso** representa **uma funcionalidade do sistema**.
 
-É desenhado como **uma elipse**.
+É desenhado como **uma elipse (oval)**.
 
 Exemplos:
 
-* Realizar login
-* Fazer pedido
+* Fazer login
+* Realizar pedido
 * Consultar notas
 * Gerar relatório
 
 ---
 
-## 3. Sistema
+## 3. Limite do sistema (System Boundary)
 
-É o **limite do sistema**, normalmente representado por **um retângulo** que contém os casos de uso.
+Representa **a fronteira do sistema**, mostrando o que faz parte dele e o que está fora.
+
+É desenhado como **um retângulo envolvendo os casos de uso**.
+
+Dentro do retângulo:
+
+* funcionalidades do sistema
+
+Fora do retângulo:
+
+* atores
 
 ---
 
-## 4. Relacionamentos
+# Relacionamentos no Diagrama
 
-### Associação
+## 4. Associação
 
-Ligação entre **ator e caso de uso**.
+Ligação entre **ator e caso de uso**, indicando interação.
 
 Exemplo:
-Cliente — Fazer pedido
+
+```
+Cliente ----- (Realizar compra)
+```
 
 ---
 
-### Include
+## 5. Include (<<include>>)
 
-Indica que **um caso de uso sempre utiliza outro**.
+Indica que **um caso de uso sempre inclui outro**.
+
+É usado para **reutilizar funcionalidades comuns**.
 
 Exemplo:
 
@@ -77,9 +95,9 @@ Autenticar usuário
 
 ---
 
-### Extend
+## 6. Extend (<<extend>>)
 
-Indica **funcionalidade opcional ou condicional**.
+Indica **comportamento opcional ou adicional**.
 
 Exemplo:
 
@@ -93,48 +111,46 @@ Aplicar cupom
 
 ---
 
-# Exemplo simples (Sistema de Biblioteca)
+## 7. Generalização
+
+Representa **herança entre atores ou entre casos de uso**.
+
+Exemplo:
 
 ```
-        +---------------------------+
-        |   Sistema de Biblioteca   |
-        |                           |
-Aluno -------- (Consultar livro)    |
-Aluno -------- (Realizar empréstimo)|
-Bibliotecário - (Cadastrar livro)   |
-Bibliotecário - (Gerar relatório)   |
-        |                           |
-        +---------------------------+
+Administrador
+      ▲
+      |
+Funcionário
 ```
+
+Isso indica que **Funcionário herda comportamentos do Administrador**.
 
 ---
 
-# Exemplo mais estruturado
+# Resumo dos elementos
 
-Atores:
-
-* Cliente
-* Administrador
-
-Casos de uso:
-
-* Fazer login
-* Comprar produto
-* Consultar pedido
-* Gerar relatório
-
-```
-Cliente -------- (Fazer login)
-Cliente -------- (Comprar produto)
-Cliente -------- (Consultar pedido)
-
-Administrador -- (Gerar relatório)
-Administrador -- (Cadastrar produto)
-```
+| Elemento          | Representa                    |
+| ----------------- | ----------------------------- |
+| Ator              | quem usa o sistema            |
+| Caso de uso       | funcionalidade do sistema     |
+| Limite do sistema | fronteira do sistema          |
+| Associação        | interação ator–caso de uso    |
+| Include           | reutilização obrigatória      |
+| Extend            | comportamento opcional        |
+| Generalização     | herança entre atores ou casos |
 
 ---
 
-# Para que serve o diagrama de caso de uso
+✅ **Em resumo**, um diagrama de caso de uso mostra:
+
+* **quem usa o sistema (atores)**
+* **o que o sistema faz (casos de uso)**
+* **como essas interações acontecem (relacionamentos)**
+
+---
+
+# Para que serve o diagrama de caso de uso?
 
 Ele é usado para:
 
@@ -145,7 +161,7 @@ Ele é usado para:
 
 ---
 
-# Quando ele é usado no processo
+# Quando ele é usado no processo?
 
 Normalmente aparece na fase de **análise de requisitos** dentro da **Especificação de Requisitos de Software (ERS)**.
 
