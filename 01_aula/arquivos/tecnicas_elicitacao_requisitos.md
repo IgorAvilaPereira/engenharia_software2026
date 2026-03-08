@@ -163,6 +163,15 @@ Fluxo principal:
 4. Sistema registra pedido
 ```
 
+obs: casos de uso podem aparecer na elicitação de requisitos, mas não são exatamente uma técnica de elicitação. Eles são principalmente uma forma de **análise e especificação** dos requisitos.
+
+| Etapa         | O que acontece       | Exemplo      |
+| ------------- | -------------------- | ------------ |
+| Elicitação    | descobrir requisitos | entrevistas  |
+| Análise       | organizar e entender | casos de uso |
+| Especificação | documentar           | ERS*         |
+
+Depois da elicitação (1) e análise (2), os requisitos são documentados formalmente, geralmente em um Especificação de Requisitos de Software (ERS) (3).
 ---
 
 # 9. Histórias de usuário
