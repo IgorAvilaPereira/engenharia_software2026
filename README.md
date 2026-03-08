@@ -42,6 +42,7 @@ Exemplos:
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula)
+[tecnicas_elicitacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/tecnicas_elicitacao_requisitos.md) <br>
 [arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/extras) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
