@@ -54,6 +54,7 @@ Métodos:
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula/introducao.md) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
+[caso_de_uso.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/caso_de_uso.md) <br>
 [diagramas_uml.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/diagramas_uml.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/introducao.md) <br>
 ## [./05_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./05_aula) <br>
