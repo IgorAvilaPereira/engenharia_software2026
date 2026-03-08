@@ -167,4 +167,6 @@ O **Diagrama de Caso de Uso** mostra:
 * **quais funcionalidades existem (casos de uso)**
 * **como ocorre a interação com o sistema**
 
+Ex:
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbdae0HkNd5qtDR1HK7w6fTOtSbn6spHmIPbHjuWKrTn9sz_nRbz0iZ-qlVGmKUU4Vtk7uqxKZKAVrbo8A8WPSlDZJBvwg8VAFagA_s4cQHSyv3BJWUtOrjMG_xacChF-piPKlGU1W-Z8/s1600/ASSOCIACAO+caso+de+uso+07.jpg)
