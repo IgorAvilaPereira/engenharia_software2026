@@ -171,7 +171,9 @@ obs: casos de uso podem aparecer na elicitação de requisitos, mas não são ex
 | Análise       | organizar e entender | casos de uso |
 | Especificação | documentar           | ERS*         |
 
+
 Depois da elicitação (1) e análise (2), os requisitos são documentados formalmente, geralmente em um Especificação de Requisitos de Software (ERS) (3).
+
 ---
 
 # 9. Histórias de usuário
