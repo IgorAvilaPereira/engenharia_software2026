@@ -166,3 +166,115 @@ node server.js
 
 ---
 
+## Estrutura recomendada (Express + HTML + JS vanilla)
+
+```
+meu-servidor/
+│
+├── node_modules/
+├── package.json
+├── package-lock.json
+├── server.js
+│
+├── public/
+│   ├── index.html
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+└── routes/
+    └── usuarios.js
+```
+
+### Onde ficam os HTMLs?
+
+👉 **Dentro da pasta `public`**
+
+Exemplo:
+
+```
+public/index.html
+```
+
+## Configurar o Express para servir HTML
+
+No `server.js` você precisa liberar a pasta `public`:
+
+```javascript
+const express = require("express");
+const app = express();
+
+app.use(express.static("public"));
+
+app.listen(3000, () => {
+    console.log("Servidor rodando em http://localhost:3000");
+});
+```
+
+Agora:
+
+```
+http://localhost:3000
+```
+
+abre automaticamente:
+
+```
+public/index.html
+```
+
+## Exemplo de `index.html`
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo Express</title>
+</head>
+<body>
+
+<button id="btn">Buscar dados</button>
+<div id="resultado"></div>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
+```
+
+## Exemplo `public/js/script.js`
+
+```javascript
+document.getElementById("btn").addEventListener("click", async () => {
+
+    const resposta = await fetch("/api/usuarios");
+    const dados = await resposta.json();
+
+    document.getElementById("resultado").innerText =
+        JSON.stringify(dados);
+});
+```
+
+## API no `server.js`
+
+```javascript
+app.get("/api/usuarios", (req, res) => {
+    res.json([
+        { nome: "Ana" },
+        { nome: "Carlos" }
+    ]);
+});
+```
+
+---
+
+✅ **Resumo da lógica**
+
+* **Express (Node)** → backend / API
+* **public/** → HTML + CSS + JS
+* **fetch()** → JS do navegador chama API
+
+---
+
+
