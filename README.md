@@ -1,6 +1,5 @@
 # engenharia_software2026 <br>
 ## [./01_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula) <br>
-[ciclo_completo_da_engenharia_de_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/ciclo_completo_da_engenharia_de_requisitos.md) <br>
 ### 1. Introdução
 
 1. [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/ementa.md)
