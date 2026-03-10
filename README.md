@@ -4,6 +4,8 @@
 
 1. [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/ementa.md)
 
+* [motivacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/motivacao.md)
+
 2. [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/introducao.md)
 
 
