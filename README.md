@@ -55,6 +55,7 @@ Métodos:
 [arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/extras) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
+[apostila_engenharia_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/apostila_engenharia_requisitos.md) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/introducao.md) <br>
