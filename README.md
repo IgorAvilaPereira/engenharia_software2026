@@ -58,6 +58,7 @@ Métodos:
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/introducao.md) <br>
+[mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
 
@@ -75,7 +76,6 @@ A sequência mais comum é:
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
-[Unconfirmed 91694.crdownload](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/Unconfirmed 91694.crdownload) <br>
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula/introducao.md) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
