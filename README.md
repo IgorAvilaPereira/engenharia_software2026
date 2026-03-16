@@ -59,6 +59,20 @@ Métodos:
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/introducao.md) <br>
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
+📚 Fluxo da Engenharia de Requisitos (importante para aula):
+
+A sequência mais comum é:
+
+1️⃣ Elicitação → descobrir requisitos
+
+2️⃣ Análise → entender e organizar
+
+3️⃣ Priorização → decidir o que é mais importante
+
+4️⃣ Especificação → documentar no ERS/SRS
+
+5️⃣ Validação → confirmar com stakeholders
+
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
 [Unconfirmed 91694.crdownload](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/Unconfirmed 91694.crdownload) <br>
