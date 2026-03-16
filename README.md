@@ -61,6 +61,7 @@ Métodos:
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
+[Unconfirmed 91694.crdownload](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/Unconfirmed 91694.crdownload) <br>
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula/introducao.md) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
