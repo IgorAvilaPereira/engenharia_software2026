@@ -79,6 +79,7 @@ A sequência mais comum é:
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
+[resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 ## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula/introducao.md) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
