@@ -91,7 +91,9 @@ Foco: Revisar e exercitar técnicas de priorização de requisitos
 [material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
 [uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/uml) <br>
 ## [./03_aula_prototipacao](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula_prototipacao) <br>
-[*.*](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/*.*) <br>
+* Ferramentas de Prototipação
+
+* Continuar implementação e projeto do IFnotes
 ## [./04_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software.md) <br>
