@@ -71,7 +71,7 @@ Métodos:
 [aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula1.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
-<br>
+<br><br>
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 
@@ -106,6 +106,7 @@ Descrição geral do sistema
 5️⃣ Especificação → documentar no ERS/SRS
 
 6. Validação → confirmar com stakeholders
+<br><br>
 [resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 [ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/ifnotes) <br>
 [material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
