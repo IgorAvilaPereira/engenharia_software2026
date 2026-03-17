@@ -55,10 +55,7 @@ Métodos:
 [arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/extras) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
-[apostila_engenharia_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/apostila_engenharia_requisitos.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
-[elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/elementos_caso_de_uso.png) <br>
-[exemplo_sistema_biblioteca_priorizacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/exemplo_sistema_biblioteca_priorizacao_requisitos.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
 
@@ -76,8 +73,10 @@ A sequência mais comum é:
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
+[resumo_aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula2.md) <br>
 [resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 [ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/ifnotes) <br>
+[material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
 ## [./03_aula_prototipacao](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula_prototipacao) <br>
 [*.*](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/*.*) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
