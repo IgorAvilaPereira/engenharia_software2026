@@ -1,4 +1,4 @@
-<br>
+<br><br>
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 
@@ -33,3 +33,4 @@ Descrição geral do sistema
 5️⃣ Especificação → documentar no ERS/SRS
 
 6. Validação → confirmar com stakeholders
+<br><br>
