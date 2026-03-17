@@ -71,21 +71,39 @@ Métodos:
 [aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula1.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
+Foco: Revisar e exercitar técnicas de priorização de requisitos
+
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
 
 A sequência mais comum é:
 
-1️⃣ Elicitação → descobrir requisitos
+Introdução
+
+Descrição geral do sistema
+
+1️⃣ Elicitação de requisitos
+
+* entrevistas
+
+* questionários
+
+* e etc.
 
 2️⃣ Análise → entender e organizar
 
+* Requisitos funcionais
+
+* Requisitos não funcionais
+
+* Casos de uso (opcional)
+
 3️⃣ Priorização → decidir o que é mais importante
 
-4️⃣ Especificação → documentar no ERS/SRS
+4️⃣ Protótipos de interface (opcional)
 
-5️⃣ Validação → confirmar com stakeholders
+5️⃣ Especificação → documentar no ERS/SRS
 
-Foco: Revisar e exercitar técnicas de priorização de requisitos
+6. Validação → confirmar com stakeholders
 [resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 [ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/ifnotes) <br>
 [material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
