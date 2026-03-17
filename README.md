@@ -68,6 +68,7 @@ Métodos:
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula)
 [arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
+[aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula1.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
@@ -85,8 +86,6 @@ A sequência mais comum é:
 5️⃣ Validação → confirmar com stakeholders
 
 Foco: Revisar e exercitar técnicas de priorização de requisitos
-[resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
-[resumo_aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula2.md) <br>
 [resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 [ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/ifnotes) <br>
 [material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
