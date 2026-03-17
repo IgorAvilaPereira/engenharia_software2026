@@ -71,6 +71,8 @@ Métodos:
 [aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula1.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
+<br>
+
 Foco: Revisar e exercitar técnicas de priorização de requisitos
 
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
