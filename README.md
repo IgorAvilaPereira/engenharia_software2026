@@ -2,7 +2,6 @@
 ## [./00_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./00_aula) <br>
 [ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/ementa.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/introducao.md) <br>
-[modelo_cascata.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/modelo_cascata.md) <br>
 [motivacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/motivacao.md) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/extras) <br>
 ## [./01_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula) <br>
