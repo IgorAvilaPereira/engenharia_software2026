@@ -1,86 +1,205 @@
-# Como acessar o material da aula? 
+# 📘 Aula 2 - Resumo
 
-Opções:
+## Capítulo: Elicitação, Análise e Priorização de Requisitos
 
-1. igoravilapereira.github.io >> Engenharia de Software
+A Engenharia de Requisitos é uma das etapas mais críticas do desenvolvimento de software, pois define **o que o sistema deve fazer** antes mesmo de qualquer implementação. Problemas nessa fase tendem a gerar retrabalho, aumento de custo e falhas no produto final.
 
-2. SIGAA >> Engenharia de Software >> Tópicos ou Notícias
-
-3. Na sua própria caixa de entrada (Gmail)
+O processo de Engenharia de Requisitos segue um fluxo bem definido, que organiza as atividades desde a descoberta até a validação dos requisitos.
 
 ---
 
-# Revisão Aula 1
+## 🔄 Fluxo da Engenharia de Requisitos
 
-## Engenharia de Software >> Engenharia de Requisitos
+A sequência mais comum das atividades é:
 
-### 1. Elicitação de Requisitos
+1. **Elicitação** — descoberta dos requisitos junto aos stakeholders
+2. **Análise** — entendimento, refinamento e organização
+3. **Priorização** — definição do que é mais importante
+4. **Especificação** — documentação formal (ERS/SRS)
+5. **Validação** — verificação com os stakeholders
 
-* Entrevistas, worshops, observação e etc
+Esse fluxo não é totalmente rígido: na prática, pode haver **iterações** entre as etapas.
 
-### 2. Priorização
+---
 
-#### Moscow -> técnica de priorização!
+## 🧠 Elicitação de Requisitos
 
-Ex: Bloco de Notas >> Tipo Notion
+A elicitação é o processo de **identificar as necessidades dos usuários e stakeholders**. É aqui que o sistema começa a tomar forma.
 
-Stackholders (Participantes/Usuários): 
-Usuário
+Diversas técnicas podem ser utilizadas, como entrevistas, questionários, workshops e observação. O objetivo é capturar tanto requisitos **funcionais** (o que o sistema faz) quanto **não funcionais** (restrições e qualidades).
 
-Must Have (M)
-- Administrador capaz de gerenciar contas de usuário
-- Administrador deve ser capaz de enviar emails de comunicado
-- Login
-- C(criar)R(ler)U(atualizar)D(deletar) anotações
-- Restringir as anotações de cada usuário (Sistema)
-- Anexar arquivos
-- Criar labels/categoria das anotações
-- Fixar tarefas que o usuário estabeleça como importante 
-- Segurança (Sistema)
+Um erro comum é assumir que o cliente sabe exatamente o que quer. Na prática, o analista precisa **investigar, interpretar e validar constantemente**.
 
-Should Have (S)
-- Compartilhamento de anotações entre os usuários
-- Acessibilidade
-- Usabilidade 
+---
 
-Could Have (C)
-- Envio de email
-- Ser multiplataforma
+## 🔍 Análise de Requisitos
 
-Won't Have (W)
-- Ser de graça
-- Sem i.a
-- Sem anúncio
+Após a coleta, os requisitos precisam ser organizados e refinados. Essa etapa envolve:
 
-#### Kano
+* Remoção de ambiguidades
+* Identificação de conflitos
+* Agrupamento por funcionalidade
+* Modelagem (como casos de uso)
 
-Funcionalidades Básicas (Must-be) 
-- Login
-- C(criar)R(ler)U(atualizar)D(deletar) anotações
-- Restringir as anotações de cada usuário
-- Anexar arquivos
-- Criar labels/categoria das anotações
-- Fixar tarefas que o usuário estabeleça como importante 
+É nesse momento que começam a surgir representações mais estruturadas do sistema.
 
-Funcionalidades de Desempenho (Performance)
-- Segurança
-- Acessibilidade
+---
 
-Funcionalidades Atrativas (Exciters / Delighters)
-- Usabilidade
-- Desempenho
-- Sem anúncio
+## 🎭 Casos de Uso
 
-Funcionalidades Indiferentes (Indifferent)
-- Limite extremo de anotações
-- Acesso a anotações alheias
+Os casos de uso são uma das principais ferramentas da análise. Eles descrevem **como os usuários interagem com o sistema**.
 
-Funcionalidades Reversas (Reverse)
-- Paleta de cor com cores que não são complementares -> dá ruim!
+Um caso de uso é composto por elementos como:
 
+* **Ator**: quem interage com o sistema
+* **Fluxo principal**: sequência padrão de ações
+* **Fluxos alternativos**: exceções ou variações
+* **Pré-condições e pós-condições**
 
+Os diagramas de caso de uso ajudam a visualizar o sistema de forma geral, enquanto as descrições textuais detalham o comportamento.
 
+É importante destacar que casos de uso são utilizados principalmente na **análise e especificação**, e não na priorização diretamente — embora possam ajudar a entender a importância das funcionalidades.
 
+---
 
+## 📊 Priorização de Requisitos
 
+Depois de entender os requisitos, é necessário decidir **o que deve ser feito primeiro**. Nem tudo pode ser implementado ao mesmo tempo, seja por limitações de tempo, custo ou equipe.
+
+A priorização é essencial para:
+
+* Entregar valor mais rápido
+* Planejar releases
+* Evitar desperdício de esforço
+
+---
+
+## 🧩 Principais Técnicas de Priorização
+
+### 📌 Método MoSCoW
+
+Divide os requisitos em quatro categorias:
+
+* **Must have** → obrigatório
+* **Should have** → importante, mas não essencial
+* **Could have** → desejável
+* **Won’t have** → não será implementado agora
+
+Essa técnica é simples e muito usada em projetos ágeis.
+
+---
+
+### 📈 Modelo Kano
+
+Classifica os requisitos com base na satisfação do usuário:
+
+* **Básicos**: obrigatórios (se faltar, gera insatisfação)
+* **De desempenho**: quanto melhor, maior a satisfação
+* **Encantadores**: surpreendem o usuário
+
+Esse modelo ajuda a entender **o impacto emocional das funcionalidades**.
+
+---
+
+### ⚖️ Outras Abordagens
+
+Além das principais, também podem ser usadas:
+
+* Votação entre stakeholders
+* Análise de custo vs benefício
+* Priorização por risco
+* Valor de negócio
+
+---
+
+## 📚 Exemplo: Sistema de Biblioteca
+
+Para ilustrar, considere um sistema de biblioteca.
+
+Alguns requisitos podem ser:
+
+* Cadastro de usuários
+* Empréstimo de livros
+* Controle de multas
+* Notificação de atraso
+
+Aplicando MoSCoW:
+
+* **Must**: empréstimo e devolução
+* **Should**: cadastro de usuários
+* **Could**: notificações automáticas
+* **Won’t**: integração com redes sociais
+
+Já no modelo Kano:
+
+* Empréstimo → básico
+* Rapidez no sistema → desempenho
+* Recomendações de leitura → encantador
+
+---
+
+## 🧾 Especificação de Requisitos
+
+Após priorizar, os requisitos são documentados em um **ERS (Especificação de Requisitos de Software)** ou **SRS**.
+
+Esse documento deve ser:
+
+* Claro
+* Completo
+* Consistente
+* Testável
+
+É aqui que os casos de uso detalhados entram com mais força.
+
+---
+
+## ✅ Validação de Requisitos
+
+A validação garante que os requisitos estão corretos e representam o que o cliente realmente precisa.
+
+Pode envolver:
+
+* Revisões com stakeholders
+* Protótipos
+* Testes de aceitação
+
+O objetivo é evitar erros antes da implementação.
+
+---
+
+## 🧭 Onde entra o UML? 
+
+A UML aparece principalmente nas etapas de:
+
+* **Análise** → com diagramas de caso de uso: <b color='red'> Onde Estamos agora </b>
+
+* **Projeto** → com diagramas mais técnicos (classe, sequência, etc.)
+
+Ela não é uma etapa do processo, mas sim uma **ferramenta de apoio**.
+
+---
+
+## 🧠 Material Complementar: Mapa Mental
+
+O mapa mental apresentado resume:
+
+* O fluxo da Engenharia de Requisitos
+* As técnicas de priorização
+* A relação entre análise e modelagem
+
+Ele serve como uma visão geral para revisão rápida.
+
+---
+
+## 🎯 Foco da Aula
+
+O principal objetivo deste conteúdo é:
+
+> **Compreender e aplicar técnicas de priorização de requisitos**
+
+Ou seja, mais do que teoria, espera-se que o aluno consiga:
+
+* Classificar requisitos
+* Justificar prioridades
+* Comparar diferentes técnicas
 
