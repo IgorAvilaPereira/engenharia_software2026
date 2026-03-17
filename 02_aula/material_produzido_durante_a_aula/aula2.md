@@ -28,13 +28,15 @@ Stackholders (Participantes/Usuários):
 Usuário
 
 Must Have (M)
+- Administrador capaz de gerenciar contas de usuário
+- Administrador deve ser capaz de enviar emails de comunicado
 - Login
 - C(criar)R(ler)U(atualizar)D(deletar) anotações
-- Restringir as anotações de cada usuário
+- Restringir as anotações de cada usuário (Sistema)
 - Anexar arquivos
 - Criar labels/categoria das anotações
 - Fixar tarefas que o usuário estabeleça como importante 
-- Segurança
+- Segurança (Sistema)
 
 Should Have (S)
 - Compartilhamento de anotações entre os usuários

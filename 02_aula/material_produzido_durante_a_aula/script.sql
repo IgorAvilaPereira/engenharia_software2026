@@ -1,3 +1,4 @@
+-- Para fazer o ER e o Modelo Relacional usamos o software Dia
 DROP DATABASE IF EXISTS ifnotes;
 
 CREATE DATABASE ifnotes;
