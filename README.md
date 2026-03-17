@@ -56,13 +56,9 @@ Métodos:
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/extras) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
 [apostila_engenharia_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/apostila_engenharia_requisitos.md) <br>
-[arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software_aula1.md) <br>
-[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/arquitetura_software.md) <br>
 [elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/elementos_caso_de_uso.png) <br>
 [exemplo_sistema_biblioteca_priorizacao_requisitos.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/exemplo_sistema_biblioteca_priorizacao_requisitos.md) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/introducao.md) <br>
 [mapa_mental.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mapa_mental.png) <br>
-[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/mvc_mvp_mvvm.md) <br>
 📚 Fluxo da Engenharia de Requisitos (importante para aula):
 
 A sequência mais comum é:
@@ -81,12 +77,18 @@ Foco: Revisar e exercitar técnicas de priorização de requisitos
 [resumo_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_aula1.md) <br>
 [resumo_elementos_caso_de_uso.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/resumo_elementos_caso_de_uso.png) <br>
 [material_produzido_durante_a_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_produzido_durante_a_aula) <br>
-## [./03_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula/introducao.md) <br>
+## [./03_aula_prototipacao](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula_prototipacao) <br>
+[*.*](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/*.*) <br>
 ## [./04_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula) <br>
 [caso_de_uso.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/caso_de_uso.md) <br>
 [diagramas_uml.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/diagramas_uml.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula/introducao.md) <br>
+## [./04_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula_arquitetura) <br>
+[arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software_aula1.md) <br>
+[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software.md) <br>
+[introducao1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/introducao1.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/introducao.md) <br>
+[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/mvc_mvp_mvvm.md) <br>
 ## [./05_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./05_aula) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_aula/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_aula/introducao.md) <br>
