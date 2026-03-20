@@ -117,6 +117,7 @@ Descrição geral do sistema
 
 * Continuar implementação e projeto do IFnotes
 [trabalho1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/trabalho1.md) <br>
+[imagens](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/imagens) <br>
 ## [./04_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/arquitetura_software.md) <br>
