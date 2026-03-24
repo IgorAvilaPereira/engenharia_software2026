@@ -24,7 +24,7 @@ Descrição geral do sistema
 
 * Requisitos não funcionais
 
-* Casos de uso (opcional)
+* [Casos de uso (opcional)](https://www.youtube.com/watch?v=K-BaRfFx0mA&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ&index=5)
 
 3️⃣ Priorização → decidir o que é mais importante
 
