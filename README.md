@@ -83,7 +83,7 @@ Introdução
 
 Descrição geral do sistema
 
-1️⃣ Elicitação de requisitos
+1️⃣ [Elicitação de requisitos](https://www.youtube.com/watch?v=VcOeM2AD8Yk)
 
 * entrevistas
 
