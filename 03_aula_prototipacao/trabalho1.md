@@ -1,3 +1,4 @@
+
 # 📘 Trabalho 1 – Engenharia de Software
 
 ## 📌 Tema: Documentação de um Sistema de Software
@@ -6,148 +7,172 @@
 
 ## 🎯 Objetivo
 
-Desenvolver a documentação completa de requisitos de um sistema de software à escolha do aluno (ex: sistema de entregas, biblioteca, e-commerce, etc.), aplicando as etapas fundamentais da Engenharia de Requisitos.
+Desenvolver a documentação de requisitos de um sistema de software, aplicando de forma integrada as etapas da Engenharia de Requisitos, incluindo modelagem, prototipação e priorização.
 
 ---
 
-## 📋 Descrição da Atividade
+## 📊 Valor do Trabalho
 
-O trabalho deve contemplar todas as etapas do processo de Engenharia de Requisitos, seguindo a sequência:
+**Valor total: 4,0 pontos**
 
-1. Elicitação de requisitos
-2. Análise de requisitos
-3. Priorização de requisitos
-4. Especificação de requisitos
+---
 
-Além disso, o trabalho deve incluir prototipação, modelagem de casos de uso e modelagem de dados.
+## 📋 Descrição Geral
+
+O trabalho deve contemplar:
+
+* Processo completo de Engenharia de Requisitos
+* Modelagem do sistema (UML e dados)
+* Prototipação de interface
+* Documentação estruturada e explicativa
+
+O sistema é de livre escolha, desde que tenha **complexidade adequada**.
 
 ---
 
 ## 🧩 Etapas Obrigatórias
 
-### 1️⃣ Elicitação de Requisitos
+### 1️⃣ Elicitação de Requisitos (0,5)
 
-Descrever como os requisitos foram obtidos.
+O aluno deve descrever **como os requisitos foram obtidos**.
 
-O aluno deve incluir:
+**Incluir:**
 
 * Identificação dos stakeholders
-* Técnicas de elicitação utilizadas (entrevistas, questionários, brainstorming, etc.)
+* Técnicas utilizadas (entrevista, questionário, brainstorming, etc.)
 * Lista de requisitos funcionais
 * Lista de requisitos não funcionais
 
 ---
 
-### 2️⃣ Análise de Requisitos
+### 2️⃣ Análise de Requisitos (0,5)
 
-Refinar e organizar os requisitos levantados.
+Refinar e estruturar os requisitos.
 
-O aluno deve apresentar:
+**Incluir:**
 
 * Classificação dos requisitos
-* Identificação de ambiguidades ou inconsistências
-* Regras de negócio do sistema
-* Organização dos requisitos de forma estruturada
+* Identificação de inconsistências ou ambiguidades
+* Regras de negócio
+* Organização estruturada
 
 ---
 
-### 3️⃣ Priorização de Requisitos
+### 3️⃣ Priorização de Requisitos (0,5)
 
-Definir o nível de importância de cada requisito.
+**Obrigatório utilizar um método de priorização.**
 
-O aluno deve:
+**Incluir:**
 
-* Escolher uma técnica de priorização (ex: MoSCoW, Kano, etc.)
-* Classificar os requisitos conforme a técnica escolhida
-* Justificar as prioridades atribuídas
+* Técnica escolhida (**MoSCoW, Kano, ou similar**)
+* Classificação dos requisitos
+* Justificativa das prioridades
 
 ---
 
-### 4️⃣ Especificação de Requisitos (ERS/SRS)
+### 4️⃣ Especificação de Requisitos – ERS/SRS (0,5)
 
-Documentar formalmente os requisitos.
-
-O aluno deve incluir:
+**Incluir:**
 
 * Descrição geral do sistema
-* Casos de uso detalhados (com ator, fluxo principal, fluxos alternativos, pré e pós-condições)
-* Requisitos descritos de forma clara e estruturada
+* Requisitos bem estruturados
+* Casos de uso detalhados
+
+📌 **Para cada caso de uso, deve haver texto explicativo contendo:**
+
+* Ator(es)
+* Descrição
+* Fluxo principal
+* Fluxos alternativos
+* Pré e pós-condições
 
 ---
 
-## 🎨 5️⃣ Prototipação
+## 🎨 5️⃣ Prototipação (0,5)
 
-Criar protótipos das principais telas do sistema.
+**Requisitos obrigatórios:**
 
-O aluno deve apresentar:
-
-* Protótipos de baixa ou média fidelidade
-* Pelo menos 3 telas principais do sistema
-* Identificação dos elementos de interface
+* Mínimo de **5 telas**
+* Baixa ou média fidelidade
+* Identificação dos principais elementos da interface
 
 ---
 
-## 🔁 6️⃣ Modelagem de Casos de Uso
+## 🔁 6️⃣ Modelagem UML (0,75)
 
-O aluno deve desenvolver:
+**Obrigatório: mais de um diagrama UML**
 
-* Diagrama de caso de uso
-* Identificação dos atores
-* Relacionamento entre atores e funcionalidades
+**Incluir:**
+
+* Diagrama de **casos de uso** (obrigatório)
+* Pelo menos **mais um diagrama UML**, como:
+
+  * Diagrama de classes
+  * Diagrama de sequência
+  * Diagrama de atividades
+
+📌 **Cada diagrama deve conter um pequeno texto explicando:**
+
+* Objetivo do diagrama
+* Elementos principais
+* Como ele representa o sistema
 
 ---
 
-## 🗄️ 7️⃣ Modelagem de Dados
+## 🗄️ 7️⃣ Modelagem de Dados (0,5)
 
-O aluno deve **escolher uma das opções abaixo (não é necessário fazer ambas):**
+Escolher **uma opção**:
 
-### 🔹 Opção A – Modelo Entidade-Relacionamento (ER)
+### 🔹 Modelo ER
 
-* Identificação das entidades
-* Atributos principais
+ou
+
+### 🔹 Modelo Relacional
+
+**Obrigatório:**
+
+* Estrutura completa (entidades/tabelas, atributos, relacionamentos)
+
+📌 **Deve haver um texto explicativo contendo:**
+
+* Descrição das entidades/tabelas
 * Relacionamentos
-* Cardinalidade
-
-**OU**
-
-### 🔹 Opção B – Modelo Relacional
-
-* Definição das tabelas
-* Atributos de cada tabela
-* Identificação de chaves primárias e estrangeiras
+* Decisões de modelagem
 
 ---
 
-## 📌 Requisitos Gerais do Trabalho
+## 📌 Requisitos Gerais
 
-* Pode ser desenvolvido individualmente 
-* Deve ser entregue em formato PDF
+* Trabalho individual
+* Entrega em **PDF**
 * Organização clara e bem estruturada
-* Uso opcional de ferramentas (Figma, Draw.io, PlantUML, etc.)
+* Uso de ferramentas é recomendado (Figma, Draw.io, PlantUML, etc.)
 
 ---
 
-## 📊 Critérios de Avaliação
+## 📊 Critérios de Avaliação (4,0 pontos)
 
-| Critério              | Peso |
-| --------------------- | ---- |
-| Elicitação            | 1,0  |
-| Análise               | 1,5  |
-| Priorização           | 1,5  |
-| Especificação         | 2,0  |
-| Prototipação          | 1,0  |
-| Casos de Uso          | 1,0  |
-| Modelagem de Dados    | 1,5  |
-| Organização e Clareza | 0,5  |
-
----
-
-## 🚀 Observações
-
-* O sistema escolhido deve ter complexidade suficiente (mínimo 3 entidades principais)
-* Evitar exemplos muito simples
-* Caprichar na clareza da documentação
+| Critério               | Pontos |
+| ---------------------- | ------ |
+| Elicitação             | 0,5    |
+| Análise                | 0,5    |
+| Priorização            | 0,5    |
+| Especificação          | 0,5    |
+| Prototipação           | 0,5    |
+| UML (mín. 2 diagramas) | 0,75   |
+| Modelagem de Dados     | 0,5    |
+| Organização/Clareza    | 0,25   |
 
 ---
 
+## 🚀 Observações Importantes
 
+* O sistema deve ter **mínimo de 3 entidades principais**
+* Trabalhos muito simples terão desconto na nota
+* Diagramas **sem explicação textual não serão considerados completos**
+* Prototipação com menos de 5 telas terá desconto
+* Priorização **sem método definido não será validada**
+
+---
+
+Se quiser, posso te mandar uma **versão já formatada em LaTeX ou Word (padrão IFRS)** ou até um **modelo preenchível pros alunos** 👍
