@@ -28,4 +28,6 @@
 * https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/02_aula/resumo_elementos_caso_de_uso.png
 
 
+**Trabalho 1:**
+
 
