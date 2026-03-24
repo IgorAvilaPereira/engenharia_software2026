@@ -107,5 +107,7 @@ Aqui vai a explicação e um exemplo simples para complementar seu conjunto de d
 * **Componentes** → mostra *como o sistema é dividido em módulos físicos*.
 * **Deploy** → mostra como o sistema é distribuído fisicamente.   
 
+**Videos:**
 
+* https://www.youtube.com/watch?v=C3xYBT3o_5k&list=PLucm8g_ezqNqCRGHGHoacCo6N1bfN7hXZ
 
