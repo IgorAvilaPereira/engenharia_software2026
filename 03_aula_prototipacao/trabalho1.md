@@ -120,8 +120,8 @@ O aluno deve **escolher uma das opções abaixo (não é necessário fazer ambas
 
 ## 📌 Requisitos Gerais do Trabalho
 
-* Pode ser desenvolvido individualmente ou em grupo
-* Deve ser entregue em formato PDF ou Markdown
+* Pode ser desenvolvido individualmente 
+* Deve ser entregue em formato PDF
 * Organização clara e bem estruturada
 * Uso opcional de ferramentas (Figma, Draw.io, PlantUML, etc.)
 
