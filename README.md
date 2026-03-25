@@ -161,7 +161,7 @@ Descrição geral do sistema
 [processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_aula/processos_ageis.md) <br>
 ## [./06_poo_diagrama_classe](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_poo_diagrama_classe) <br>
 [poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_poo_diagrama_classe/poo_diagrama_classe.md) <br>
-## [./07_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_aula) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula/introducao.md) <br>
+## [./07_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ferramentas_desenvolvimento) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ferramentas_desenvolvimento/introducao.md) <br>
 ## [./offtopic](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./offtopic) <br>
 [express.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./offtopic/express.md) <br>
