@@ -155,6 +155,7 @@ Descrição geral do sistema
 [introducao1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/introducao1.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/introducao.md) <br>
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/mvc_mvp_mvvm.md) <br>
+[teoria.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_aula_arquitetura/teoria.md) <br>
 ## [./05_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./05_aula) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_aula/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_aula/introducao.md) <br>
