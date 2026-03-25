@@ -7,7 +7,7 @@
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/introducao.md) <br>
 [motivacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/motivacao.md) <br>
 [extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/extras) <br>
-## [./01_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula) <br>
+## [./01_elicitacao_requisitos](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_elicitacao_requisitos) <br>
 
 <!--
 ### 1. Introdução
@@ -69,7 +69,7 @@ Métodos:
 -->
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula)
-[arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_aula/arquivos) <br>
+[arquivos](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./01_elicitacao_requisitos/arquivos) <br>
 ## [./02_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./02_aula) <br>
 [aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula1.md) <br>
 [aula2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/aula2.md) <br>
