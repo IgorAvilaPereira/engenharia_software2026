@@ -1,9 +1,12 @@
 # engenharia_software2026 <br>
-## [./00_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./00_aula) <br>
-[ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/ementa.md) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/introducao.md) <br>
-[motivacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/motivacao.md) <br>
-[extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_aula/extras) <br>
+## [./00_guia_rapido](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./00_guia_rapido) <br>
+[express.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_guia_rapido/express.md) <br>
+[uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_guia_rapido/uml) <br>
+## [./00_introducao](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./00_introducao) <br>
+[ementa.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/ementa.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/introducao.md) <br>
+[motivacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/motivacao.md) <br>
+[extras](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./00_introducao/extras) <br>
 ## [./01_aula](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./01_aula) <br>
 
 <!--
@@ -164,5 +167,3 @@ Descrição geral do sistema
 [poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_poo_diagrama_classe/poo_diagrama_classe.md) <br>
 ## [./07_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ferramentas_desenvolvimento) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ferramentas_desenvolvimento/introducao.md) <br>
-## [./offtopic](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./offtopic) <br>
-[express.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./offtopic/express.md) <br>
