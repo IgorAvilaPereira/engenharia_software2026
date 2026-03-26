@@ -144,7 +144,7 @@ ou
 ## 📌 Requisitos Gerais
 
 * Trabalho individual
-* Entrega em **PDF**
+* Entrega em **PDF**. Deve usar como modelo o documento latex ou .doc de TCC do curso.
 * Organização clara e bem estruturada
 * Uso de ferramentas é recomendado (Figma, Draw.io, PlantUML, etc.)
 
