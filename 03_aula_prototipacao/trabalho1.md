@@ -173,6 +173,4 @@ ou
 * Prototipação com menos de 5 telas terá desconto
 * Priorização **sem método definido não será validada**
 
----
 
-Se quiser, posso te mandar uma **versão já formatada em LaTeX ou Word (padrão IFRS)** ou até um **modelo preenchível pros alunos** 👍
