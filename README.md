@@ -115,6 +115,7 @@ Descrição geral do sistema
 [material_complementar](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/material_complementar) <br>
 [uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./02_aula/uml) <br>
 ## [./03_aula_prototipacao](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./03_aula_prototipacao) <br>
+[exemplo_wireframe_plantuml.plantuml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/exemplo_wireframe_plantuml.plantuml) <br>
 [ferramentas_prototipacao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/ferramentas_prototipacao.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/introducao.md) <br>
 * Ferramentas de Prototipação: Figma, Draw.io e etc.
