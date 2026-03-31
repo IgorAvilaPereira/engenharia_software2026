@@ -1,0 +1,23 @@
+@startsalt
+{
+-- Tela Login
+  IfNotes
+  Email: [digite seu email]
+  Senhal: [digite sua senha]
+  [Login]
+  
+  
+  
+  --Tela Dashboard
+  Minhas anotações
+  {#
+| ID | Anotação | Adicionar | Alterar | Excluir | Arquivos
+| 1| Trabalho de Engenharia de Software | [Adicionar] | [Alterar] | [<color:red>Excluir] | [Arquivos] 
+| 2| <color:green> Hoje a aula tá top |  [Adicionar] |  [Alterar] | [<color:red>Excluir] |   [Arquivos]
+}
+
+[Adicionar]  
+
+}
+@endsalt
+
