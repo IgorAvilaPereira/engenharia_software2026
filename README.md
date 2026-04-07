@@ -167,5 +167,7 @@ Descrição geral do sistema
 [processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
 ## [./06_poo_diagrama_classe](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_poo_diagrama_classe) <br>
 [poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_poo_diagrama_classe/poo_diagrama_classe.md) <br>
+[uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_poo_diagrama_classe/uml.asta) <br>
+[uml.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_poo_diagrama_classe/uml.asta.lock) <br>
 ## [./07_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ferramentas_desenvolvimento) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ferramentas_desenvolvimento/introducao.md) <br>
