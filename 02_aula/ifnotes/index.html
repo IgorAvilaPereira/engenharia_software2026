@@ -1,85 +1,59 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>layoutit-project</title>
     <meta name="description" content="Generated with Layoutit" />
     <link rel="stylesheet" href="./bootstrap.min.css" />
-  </head>
-  <body>
+</head>
+
+<body>
     <div class="container">
-    <div class="row">
-        <div class="col-6">
-            <h2>IFnotes</h2>
-            <p>
-                Um software revolucionário para gerenciamentos de anotações
-            </p>
-            <a
-                class="btn text-primary"
-                href="#"
-                role="button"
-            >
-                Veja nos planos de assinatura »
-            </a>
-        </div>
-        <div class="col-6">
-            <form
-                class="row row-cols-3 align-items-center"
-                action="/cadastrar.php" method="post">
-             <div class="mb-3">
-                    <label
-                        class="form-label"
-                        for="formEmail"
-                    >
-                        Nome
-                    </label>
-                    <input
-                        class="form-control"
-                        type="text"
-                        placeholder="Entre com seu nome"
-                        id="formNome" name="nome"
-                    />
-                </div>
-                <div class="mb-3">
-                    <label
-                        class="form-label"
-                        for="formEmail"
-                    >
-                        Email
-                    </label>
-                    <input
-                        class="form-control"
-                        type="email"
-                        placeholder="Entre seu email"
-                        id="formEmail"
-                        name="email"
-                    />
-                </div>
-                <div class="mb-3">
-                    <label
-                        class="form-label"
-                        for="formPassword"
-                    >
-                        Senha
-                    </label>
-                    <input
-                        class="form-control"
-                        type="password"
-                        placeholder="Senha"
-                        id="formPassword"
-                        autoComplete="nova-senha"
-                        name="senha"
-                    />
-                </div>
-               
-                <div>
-                    <input class="btn btn-primary" type="submit" value="cadastrar">
-                </div>                
-            </form>
+        <div class="row">
+            <div class="col-6">
+                <h2>IFnotes</h2>
+                <p>
+                    Um software revolucionário para gerenciamentos de anotações
+                </p>
+                <a class="btn text-primary" href="#" role="button">
+                    Veja nos planos de assinatura »
+                </a>
+            </div>
+            <div class="col-6">
+                <form class="row row-cols-3 align-items-center" action="/cadastrar.php" method="post">
+                    <div class="mb-3">
+                        <label class="form-label" for="formEmail">
+                            Nome
+                        </label>
+                        <input class="form-control" type="text" placeholder="Entre com seu nome" id="formNome"
+                            name="nome" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" for="formEmail">
+                            Email
+                        </label>
+                        <input class="form-control" type="email" placeholder="Entre seu email" id="formEmail"
+                            name="email" />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" for="formPassword">
+                            Senha
+                        </label>
+                        <input class="form-control" type="password" placeholder="Senha" id="formPassword"
+                            autoComplete="nova-senha" name="senha" />
+                    </div>
+
+                    <div>
+                        <input class="btn btn-primary" type="submit" value="cadastrar">
+                    </div>
+                </form>
+            </div>
         </div>
     </div>
-</div>
+    <a href="/listar.php">Listar</a>
     <script src="./bootstrap.bundle.min.js"></script>
-  </body>
+</body>
+
 </html>
