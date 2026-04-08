@@ -114,7 +114,7 @@ class Usuario {
 // $igor->cadastrar();
 
 ?>
-```php
+```
 
 Esse código PHP implementa um **modelo orientado a objetos** para manipular usuários em um banco **PostgreSQL**.
 
