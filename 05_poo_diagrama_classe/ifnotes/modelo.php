@@ -23,15 +23,16 @@ class ConexaoPostgreSQL {
 
 class Usuario {
     private int $id;
-
     private string $email;
     private string $senha;
     private string $nome;
+    private array $vetAnotacao;
 
     public function __construct(string $nome = "", string $email = "", string $senha = ""){
         $this->nome = $nome;
         $this->email =  $email;
         $this->senha = $senha; 
+        $this->vetAnotacao = array();
     }
 
     public function getId():int {
@@ -106,12 +107,92 @@ class Usuario {
     public function toJson() {
         return '{"nome":'.$this->nome.'}';
     }
+
+    public function getAnotacoes(): array {
+        return $this->vetAnotacao;
+    }
+
+    public function setAnotacoes(array $vetAnotacao): void {
+        $this->vetAnotacao = $vetAnotacao;
+    }
+
+    function __destruct() {
+        // echo "Destruindo usuario:\n";
+        foreach($this->vetAnotacao as $anotacao) {
+            unset($anotacao);
+        }
+    }
 }
 
 // $igor = new Usuario("Telecken", "teleck2en@gmail.com", "123");
 // echo $igor->getNome(); # 
 // $igor->cadastrar();
 
+class Anotacao {
+    private int $id;
+    private string $titulo;
+    private string $descricao;
+    private date $dataHora;
+    private Usuario $usuario;
+
+    public function setId(int $id): void {
+        $this->id = $id;
+    }
+
+    public function getId(): int {
+        return $this->id;
+    }
+
+    public function setTitulo(string $titulo): void {
+        $this->titulo = $titulo;
+    }
+
+    public function getTitulo(): string {
+        return $this->titulo;
+    }
+
+    public function setUsuario(Usuario $usuario): void {
+        $this->usuario = $usuario;
+    }
+
+    public function getUsuario(): Usuario {
+        return $this->usuario;
+    }
+
+    function __destruct() {
+        // echo "Destruindo a anotacao";
+    }
+}
+
+// $usuario = new Usuario();
+// $usuario->setNome("igor");
+// $anotacao = new Anotacao();
+// $anotacao->setTitulo("oi");
+
+// $usuario->getAnotacoes()[] = $anotacao;
+// $anotacao->setUsuario($usuario);
+
+// print_r($anotacao->getUsuario()->getNome());
+
+// unset($usuario);
+
+class PessoaFisica extends Usuario {
+    private string $cpf;
+
+    public function getCpf(): string {
+        return $this->cpf;
+    }
+
+    public function setCpf(string $cpf): void {
+        $this->cpf = $cpf;
+    }
+}
+
+$pessoafisica = new PessoaFisica();
+$pessoafisica->setNome("igor");
+$pessoafisica->setCpf("11111111111");
+
+print_r($pessoafisica->getCpf());
 
 
 ?>
