@@ -170,7 +170,6 @@ Descrição geral do sistema
 [uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta) <br>
 [uml.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta.lock) <br>
 [ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/ifnotes) <br>
-[uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml) <br>
 ## [./06_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_ciclo_de_vida_metodologias_ageis) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
