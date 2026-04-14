@@ -153,25 +153,27 @@ Descrição geral do sistema
 
 [trabalho1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/trabalho1.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./03_aula_prototipacao/imagens) <br>
-## [./04_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_ciclo_de_vida_metodologias_ageis) <br>
-[ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
-[processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
-## [./05_poo_diagrama_classe](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./05_poo_diagrama_classe) <br>
-[codigo_aula.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/codigo_aula.md) <br>
-[diagrama_classe_aula.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/diagrama_classe_aula.md) <br>
-[poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/poo_diagrama_classe.md) <br>
-[uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta) <br>
-[uml.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta.lock) <br>
-[ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/ifnotes) <br>
-[uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml) <br>
-## [./06_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_aula_arquitetura) <br>
-[arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/arquitetura_software_aula1.md) <br>
-[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/arquitetura_software.md) <br>
-[introducao1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/introducao1.md) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/introducao.md) <br>
-[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/mvc_mvp_mvvm.md) <br>
+## [./04_poo_diagrama_classe](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./04_poo_diagrama_classe) <br>
+[codigo_aula.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/codigo_aula.md) <br>
+[diagrama_classe_aula.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/diagrama_classe_aula.md) <br>
+[poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/poo_diagrama_classe.md) <br>
+[uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/uml.asta) <br>
+[uml.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/uml.asta.lock) <br>
+[ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/ifnotes) <br>
+[uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./04_poo_diagrama_classe/uml) <br>
+## [./05_lista1](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./05_lista1) <br>
+[lista1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_lista1/lista1.md) <br>
+## [./06_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_ciclo_de_vida_metodologias_ageis) <br>
+[ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
+[processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
+## [./07_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_aula_arquitetura) <br>
+[arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/arquitetura_software_aula1.md) <br>
+[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/arquitetura_software.md) <br>
+[introducao1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/introducao1.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/introducao.md) <br>
+[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/mvc_mvp_mvvm.md) <br>
 [![](https://img.plantuml.biz/plantuml/svg/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)](https://editor.plantuml.com/uml/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)
-[teoria.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/teoria.md) <br>
-## [./07_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ferramentas_desenvolvimento) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ferramentas_desenvolvimento/introducao.md) <br>
+[teoria.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_aula_arquitetura/teoria.md) <br>
+## [./08_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./08_ferramentas_desenvolvimento) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_ferramentas_desenvolvimento/introducao.md) <br>
