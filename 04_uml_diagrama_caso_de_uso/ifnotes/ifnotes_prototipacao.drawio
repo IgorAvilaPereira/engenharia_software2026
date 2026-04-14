@@ -1,0 +1,47 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram id="qbBMIDJv_3F4sMFMik_j" name="Page-1">
+    <mxGraphModel dx="1665" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="1220" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-2" value="&lt;h2 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; font-weight: 500; line-height: 1.2; color: rgb(33, 37, 41); font-size: 2rem; font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;IFnotes&lt;/h2&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; flex: 0 0 auto; width: 570px; max-width: 100%; padding-right: 12px; padding-left: 12px; margin-top: 0px; color: rgb(33, 37, 41); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255);&quot; class=&quot;col-6&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;&quot;&gt;Um software revolucionário para&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem;&quot;&gt;&amp;nbsp;gerenciamentos de anotações&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; flex: 0 0 auto; width: 570px; max-width: 100%; padding-right: 12px; padding-left: 12px; margin-top: 0px; color: rgb(33, 37, 41); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; background-color: rgb(255, 255, 255);&quot; class=&quot;col-6&quot;&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;align=left;verticalAlign=top;spacing=20;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="120" y="125" width="990" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-3" value="Go somewhere" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" parent="lP0xtNNhoDSggyDBtVwD-2" vertex="1">
+          <mxGeometry y="1" width="106.75224646983314" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-4" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;align=left;verticalAlign=top;spacing=20;fontSize=14;" parent="lP0xtNNhoDSggyDBtVwD-2" vertex="1">
+          <mxGeometry x="338.05" width="651.95" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-5" value="cadastrar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry y="1" width="142.33606237816767" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-8" value="Nome" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="0.005622582550653082" y="-0.002595099935534171" width="120.7314814814815" height="38.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-9" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="16.981547182349814" y="38.3332591876209" width="96.70245069112174" height="27.063259187620893" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-11" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="130.66554505582135" y="38.33325918762091" width="96.70245069112174" height="27.063259187620893" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-10" value="Email" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="130.6711676383721" y="-0.0025950999355496603" width="120.7314814814815" height="38.333333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="251.4055450558214" y="43.8094496638114" width="96.70245069112174" height="27.063259187620893" as="geometry" />
+        </mxCell>
+        <mxCell id="lP0xtNNhoDSggyDBtVwD-14" value="senha" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" parent="lP0xtNNhoDSggyDBtVwD-4" vertex="1">
+          <mxGeometry x="251.4111676383721" y="5.473595376254946" width="120.7314814814815" height="38.333333333333336" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
