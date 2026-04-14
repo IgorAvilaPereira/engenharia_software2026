@@ -163,6 +163,8 @@ Descrição geral do sistema
 [poo_diagrama_classe.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/poo_diagrama_classe.md) <br>
 [uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta) <br>
 [uml.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml.asta.lock) <br>
+[ifnotes](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/ifnotes) <br>
+[uml](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./05_poo_diagrama_classe/uml) <br>
 ## [./06_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_aula_arquitetura/arquitetura_software.md) <br>
