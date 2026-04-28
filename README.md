@@ -171,6 +171,7 @@ Descrição geral do sistema
 ## [./06_lista1](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./06_lista1) <br>
 [lista1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/lista1.md) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/lista2.md) <br>
+[ifbib](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/ifbib) <br>
 ## [./07_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ciclo_de_vida_metodologias_ageis) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
