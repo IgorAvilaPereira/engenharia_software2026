@@ -1,0 +1,51 @@
+1) Sistema de Biblioteca
+
+Entrevista: 
+
+>> Entrevistado Bibliotecário Solder Boy
+
+>> Quais são os possíveis usuários do sistema?
+* Resposta: Aluno, Bibliotecário e os Tutores
+
+>> O que o sistema deve fazer?
+Resposta: Pesquisar livros, Empréstimos, Reservar Livros, Visualizar Débitos, Pagar Débitos, Realizar Entrega, Ver disponíveis e etc.
+
+>> O sistema deve ser rápido? deve ser acessível? deve ter usabilidade? 
+Resposta: sim
+
+>> Existe um sistema atual? Aonde é peca?
+>> Não sei
+
+>> Este sistema deve ser web? Deve ser acessado pelo celular também?
+Resposta: sim e sim
+=========================
+Funcional 
+Realizar Empréstimos, consultas livros, visualizar débitos e etc.
+
+Não funcional
+Usabilidade, Acessibilidade, Desempenho
+==========================================
+Moscow: https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/01_aula/arquivos/metodo_moscow.md
+
+Must Have (M)
+Login
+Pesquisa dos livros
+Empréstimo de livros
+Visualização dos débitos
+Perfis de usuário
+Reservar Livros
+
+Should Have (S)
+Acessibilidade
+Recomendações
+
+Could Have (C)
+>> Pagamento interno
+>> Newsletter
+
+====================================
+Won't Have (W)
+>> Geolocalização
+
+
+
