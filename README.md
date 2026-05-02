@@ -176,6 +176,10 @@ Descrição geral do sistema
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
 [processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
+## [./07_lista2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_lista2) <br>
+[lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/lista2.md) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
+&nbsp;
 ## [./08_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./08_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software.md) <br>
