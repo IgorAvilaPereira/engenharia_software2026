@@ -172,10 +172,6 @@ Descrição geral do sistema
 [lista1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/lista1.md) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/lista2.md) <br>
 [ifbib](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/ifbib) <br>
-## [./07_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_ciclo_de_vida_metodologias_ageis) <br>
-[ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
-[processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
 ## [./07_lista2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_lista2) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/lista2.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
@@ -188,5 +184,9 @@ Descrição geral do sistema
 [mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/mvc_mvp_mvvm.md) <br>
 [![](https://img.plantuml.biz/plantuml/svg/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)](https://editor.plantuml.com/uml/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)
 [teoria.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/teoria.md) <br>
-## [./09_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./09_ferramentas_desenvolvimento) <br>
-[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./09_ferramentas_desenvolvimento/introducao.md) <br>
+## [./09_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./09_ciclo_de_vida_metodologias_ageis) <br>
+[ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./09_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./09_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
+[processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./09_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
+## [./10_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./10_ferramentas_desenvolvimento) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./10_ferramentas_desenvolvimento/introducao.md) <br>
