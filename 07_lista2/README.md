@@ -18,16 +18,16 @@
 
 	* Requisitos funcionais e não-funcionais
 
-	* Conceitos de Orientação a objetos
+	* Conceitos de Orientação a objetos: objeto, classe, instância e etc.
 
 	* UML: Caso de uso: associação,incluide,extends, especialização e definição de ator e etc
 	
 	* Prototipação 
 
  	* Modelos de desenvolvimento: Desenvolvimento três camadas e mvc conceitos teóricos
-Padrões arquitetural de persistência:dão
+Padrões arquitetural de persistência:DAO (Data Acess Object)
 
-	* UML: Diagrama de Classes: classe associativa , classe abstrata, navegabilidade, associação, composição, agregação e etc.
+	* UML: Diagrama de Classes: representação de classe, visibilidade de atributos e métodos, classe associativa, classe abstrata, navegabilidade, associação, composição, agregação e etc.
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
 &nbsp;
