@@ -174,11 +174,18 @@ Descrição geral do sistema
 [ifbib](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/ifbib) <br>
 ## [./07_lista2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_lista2) <br>
 [conceitos_de_oo.pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/conceitos_de_oo.pptx.pdf) <br>
+[diagrama_classes.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/diagrama_classes.pdf) <br>
 [Diagrama_de_casos_de_uso_AULA2(1).pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/Diagrama_de_casos_de_uso_AULA2(1).pptx.pdf) <br>
 [Diagrama_de_Classes_v2.pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/Diagrama_de_Classes_v2.pptx.pdf) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/lista2.md) <br>
+
+[Documentação UML by IBM](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=structure-class-diagrams)
+
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
 &nbsp;
+[UML-DiagramaClasses.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/UML-DiagramaClasses.pdf) <br>
+[uml-diagrama-classes-relacionamentos_v01.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/uml-diagrama-classes-relacionamentos_v01.pdf) <br>
+[UMLIntro.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/UMLIntro.pdf) <br>
 ## [./08_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./08_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software.md) <br>
