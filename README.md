@@ -173,6 +173,9 @@ Descrição geral do sistema
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/lista2.md) <br>
 [ifbib](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./06_lista1/ifbib) <br>
 ## [./07_lista2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./07_lista2) <br>
+[conceitos_de_oo.pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/conceitos_de_oo.pptx.pdf) <br>
+[Diagrama_de_casos_de_uso_AULA2(1).pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/Diagrama_de_casos_de_uso_AULA2(1).pptx.pdf) <br>
+[Diagrama_de_Classes_v2.pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/Diagrama_de_Classes_v2.pptx.pdf) <br>
 [lista2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/lista2.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
 &nbsp;
