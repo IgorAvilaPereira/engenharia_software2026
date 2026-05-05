@@ -192,6 +192,23 @@ Descrição geral do sistema
 
 * 19/05: Atividade Avaliada Presencial 1: sem consulta (somente o valor da atividade avaliada é possível ser recuperada)
 
+	* Licitação de requisitos
+	
+	* Priorização de requisitos
+
+	* Requisitos funcionais e não-funcionais
+
+	* Conceitos de Orientação a objetos
+
+	* UML: Caso de uso: associação,incluide,extends, especialização e definição de ator e etc
+	
+	* Prototipação 
+
+ 	* Modelos de desenvolvimento: Desenvolvimento três camadas e mvc conceitos teóricos
+Padrões arquitetural de persistência:dão
+
+	* UML: Diagrama de Classes: classe associativa , classe abstrata, navegabilidade, associação, composição, agregação e etc.
+
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/07_lista2) <br><br>
 &nbsp;
 [UML-DiagramaClasses.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/UML-DiagramaClasses.pdf) <br>
