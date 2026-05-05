@@ -181,6 +181,8 @@ Descrição geral do sistema
 
 [Documentação UML by IBM](https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=structure-class-diagrams)
 
+[:important Introdução às Classes, Associações e Generalizações](https://spaceprogrammer.com/uml/introducao-as-classes-associacoes-e-generalizacoes/)
+
 [:important Compreendo Multiplicidade e os tipos de Associação](https://spaceprogrammer.com/uml/compreendendo-multiplicidade-e-os-tipos-de-associacao/)
 
 
