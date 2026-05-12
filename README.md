@@ -217,6 +217,9 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 [UML-DiagramaClasses.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/UML-DiagramaClasses.pdf) <br>
 [uml-diagrama-classes-relacionamentos_v01.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/uml-diagrama-classes-relacionamentos_v01.pdf) <br>
 [UMLIntro.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./07_lista2/UMLIntro.pdf) <br>
+## [./08_apresentacao_trabalho1](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./08_apresentacao_trabalho1) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/08_apresentacao_trabalho1) <br><br>
+&nbsp;
 ## [./08_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./08_aula_arquitetura) <br>
 [arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software_aula1.md) <br>
 [arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./08_aula_arquitetura/arquitetura_software.md) <br>
