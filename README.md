@@ -240,3 +240,6 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 [processos_ageis.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_ciclo_de_vida_metodologias_ageis/processos_ageis.md) <br>
 ## [./13_ferramentas_desenvolvimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./13_ferramentas_desenvolvimento) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_ferramentas_desenvolvimento/introducao.md) <br>
+## [./14_uml_diagrama_atividades_diagrama_sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./14_uml_diagrama_atividades_diagrama_sequencia) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/14_uml_diagrama_atividades_diagrama_sequencia) <br><br>
+&nbsp;
