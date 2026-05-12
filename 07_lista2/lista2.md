@@ -1,5 +1,5 @@
 
-# 📚 Lista de Questões – Engenharia de Requisitos (Parte 2)
+# 📚 Lista 2 – Engenharia de Requisitos 
 
 ## ✅ 01
 
