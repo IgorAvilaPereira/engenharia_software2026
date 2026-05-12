@@ -158,12 +158,12 @@ Relatório: 3.0
 
 | Critério               | Pontos |
 | ---------------------- | ------ |
-| Elicitação             | 0,5    |
-| Análise                | 0,5    |
+| Análise e Elicitação             | 0,5    |
 | Priorização            | 0,5    |
 | Especificação          | 0,5    |
 | Prototipação           | 0,5    |
 | UML (mín. 2 diagramas) | 0,5   |
+| Modelagem de Dados | 0,5 |
 
 ---
 
