@@ -150,7 +150,11 @@ ou
 
 ---
 
-## 📊 Critérios de Avaliação (4,0 pontos)
+## 📊 Critérios de Avaliação (Total: 4,0 pontos)
+
+Apresentação: 1.0
+
+Relatório: 3.0
 
 | Critério               | Pontos |
 | ---------------------- | ------ |
@@ -159,9 +163,7 @@ ou
 | Priorização            | 0,5    |
 | Especificação          | 0,5    |
 | Prototipação           | 0,5    |
-| UML (mín. 2 diagramas) | 0,75   |
-| Modelagem de Dados     | 0,5    |
-| Organização/Clareza    | 0,25   |
+| UML (mín. 2 diagramas) | 0,5   |
 
 ---
 
