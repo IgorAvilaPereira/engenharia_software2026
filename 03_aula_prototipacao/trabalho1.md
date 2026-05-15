@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Desenvolver a documentação de requisitos de um sistema de software, aplicando de forma integrada as etapas da Engenharia de Requisitos, incluindo modelagem, prototipação e priorização.
+Desenvolver um relatório técnico que contemple a documentação de requisitos de um sistema de software, aplicando de forma integrada as etapas da Engenharia de Requisitos, incluindo modelagem, prototipação e priorização. 
 
 ---
 
@@ -145,8 +145,8 @@ ou
 
 * Trabalho individual
 * Entrega em **PDF**. Deve usar como modelo o documento latex ou .doc de TCC do curso.
-* Organização clara e bem estruturada
-* Uso de ferramentas é recomendado (Figma, Draw.io, PlantUML, etc.)
+* Organização clara e bem estruturada: apresentando/explicando cada seção ao leitor
+* Uso de ferramentas é recomendado (Figma, Draw.io, PlantUML, etc.)  
 
 ---
 
