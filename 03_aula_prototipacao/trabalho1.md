@@ -174,6 +174,6 @@ Relatório: 3.0
 * Diagramas **sem explicação textual não serão considerados completos**
 * Prototipação com menos de 5 telas terá desconto
 * Priorização **sem método definido não será validada**
-* Template Latex: https://www.overleaf.com/read/jgmwskyrsfjy#29b008
-* Template Latex (gdrive): https://docs.google.com/document/d/1f-e3TgPx22ZuoVNbMPj5tQEoqZxBwem7bzFJYYayXQ4/edit?tab=t.0
-* Exemplo de Aula - Meu Trabalho IFNotes em Latex: https://www.overleaf.com/read/mvzwpcmqcwqs#c994a8
+* Template Latex (overleaf): https://www.overleaf.com/read/jgmwskyrsfjy#29b008
+* Template .doc (gdrive): https://docs.google.com/document/d/1f-e3TgPx22ZuoVNbMPj5tQEoqZxBwem7bzFJYYayXQ4/edit?tab=t.0
+* Exemplo de Aula - Meu Trabalho IFNotes: https://www.overleaf.com/read/mvzwpcmqcwqs#c994a8
