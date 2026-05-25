@@ -227,6 +227,12 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/09_atividade_avaliada1) <br><br>
 &nbsp;
 ## [./11_recuperacao_atividade_avaliada1](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./11_recuperacao_atividade_avaliada1) <br>
+[conceitos_de_oo.pptx.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/conceitos_de_oo.pptx.pdf) <br>
+[Diagrama_de_Atividade.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/Diagrama_de_Atividade.pdf) <br>
+[Diagrama de atividades.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/Diagrama de atividades.md) <br>
+[Diagrama_de_casos_de_uso.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/Diagrama_de_casos_de_uso.pdf) <br>
+[Diagrama_de_Classes.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/Diagrama_de_Classes.pdf) <br>
+[Introducao_a_UML.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/Introducao_a_UML.pdf) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/10_recuperacao_atividade_aavaliada1) <br><br>
 &nbsp;
 [trabalho2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/trabalho2.md) <br>
