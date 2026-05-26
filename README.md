@@ -255,7 +255,6 @@ Elementos principais:
 | Atividade/Ação | Retângulo com cantos arredondados | Representa uma tarefa executada |
 | Fluxo          | →                                 | Indica sequência                |
 | Decisão        | ◇                                 | Escolha baseada em condição     |
-<!--| Junção (merge) | ◇                                 | Reúne caminhos alternativos     |-->
 | Fork           | Barra grossa                      | Divide execução paralela        |
 | Join           | Barra grossa                      | Sincroniza fluxos paralelos     |
 | Nó final       | ◎                                 | Finaliza o processo             |
