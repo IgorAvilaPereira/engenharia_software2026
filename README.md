@@ -239,6 +239,8 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 ## [./12_uml_diagrama_atividades_diagrama_sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./12_uml_diagrama_atividades_diagrama_sequencia) <br>
 [diagrama_atividades_elementos.jpeg](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagrama_atividades_elementos.jpeg) <br>
 [Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf) <br>
+[diagramas_ifnotes.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagramas_ifnotes.asta) <br>
+[diagramas_ifnotes.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagramas_ifnotes.asta.lock) <br>
 [engenharia_software.php](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/engenharia_software.php) <br>
 [Exemplos de diagramas de atividades (1).pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades (1).pdf) <br>
 [Exemplos de diagramas de atividades.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades.pdf) <br>
