@@ -239,6 +239,7 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 ## [./12_uml_diagrama_atividades_diagrama_sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./12_uml_diagrama_atividades_diagrama_sequencia) <br>
 [diagrama_atividades_elementos.jpeg](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagrama_atividades_elementos.jpeg) <br>
 [Exemplos de diagramas de atividades.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades.pdf) <br>
+[img001.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/img001.png) <br>
 O **Diagrama de Atividades (Activity Diagram)** é um diagrama da **UML (Unified Modeling Language)** utilizado para representar o **fluxo de atividades, ações e decisões de um processo ou caso de uso**. Ele mostra **o que acontece e em qual sequência**, incluindo condições, paralelismo e encerramento.
 
 É muito usado para modelar:
