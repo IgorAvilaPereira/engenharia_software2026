@@ -238,6 +238,8 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 [trabalho2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/trabalho2.md) <br>
 ## [./12_uml_diagrama_atividades_diagrama_sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./12_uml_diagrama_atividades_diagrama_sequencia) <br>
 [diagrama_atividades_elementos.jpeg](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagrama_atividades_elementos.jpeg) <br>
+[Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf) <br>
+[Exemplos de diagramas de atividades (1).pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades (1).pdf) <br>
 [Exemplos de diagramas de atividades.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades.pdf) <br>
 [img001.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/img001.png) <br>
 O **Diagrama de Atividades (Activity Diagram)** é um diagrama da **UML (Unified Modeling Language)** utilizado para representar o **fluxo de atividades, ações e decisões de um processo ou caso de uso**. Ele mostra **o que acontece e em qual sequência**, incluindo condições, paralelismo e encerramento.
@@ -312,6 +314,7 @@ Em trabalhos de Engenharia de Software, normalmente o diagrama de atividades cos
 &nbsp;
 [Topico 5 - UML - Diagrama de Atividade.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Topico 5 - UML - Diagrama de Atividade.pdf) <br>
 [uml-diagrama-atividades_v01.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/uml-diagrama-atividades_v01.pdf) <br>
+[UML - Diagrama de Atividades - Purainfo.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/UML - Diagrama de Atividades - Purainfo.pdf) <br>
 ## [./13_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./13_ciclo_de_vida_metodologias_ageis) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
