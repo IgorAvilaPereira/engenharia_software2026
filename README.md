@@ -318,6 +318,7 @@ Em trabalhos de Engenharia de Software, normalmente o diagrama de atividades cos
 [Topico 5 - UML - Diagrama de Atividade.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Topico 5 - UML - Diagrama de Atividade.pdf) <br>
 [uml-diagrama-atividades_v01.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/uml-diagrama-atividades_v01.pdf) <br>
 [UML - Diagrama de Atividades - Purainfo.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/UML - Diagrama de Atividades - Purainfo.pdf) <br>
+[sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/sequencia) <br>
 ## [./13_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./13_ciclo_de_vida_metodologias_ageis) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
 [introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_ciclo_de_vida_metodologias_ageis/introducao.md) <br>
