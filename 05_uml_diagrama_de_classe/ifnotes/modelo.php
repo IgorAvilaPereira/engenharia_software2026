@@ -27,16 +27,26 @@ class Usuario {
     private string $senha;
     private string $nome;
     private array $vetAnotacao;
+    private bool $ehAdmin;
 
     public function __construct(string $nome = "", string $email = "", string $senha = ""){
         $this->nome = $nome;
         $this->email =  $email;
         $this->senha = $senha; 
         $this->vetAnotacao = array();
+
     }
 
     public function getId():int {
         return $this->id;
+    }
+
+    public function getEhAdmin(): bool {
+        return $this->ehAdmin;
+    }
+
+    public function setEhAdmin(bool $ehAdmin) {
+        $this->ehAdmin = $ehAdmin;
     }
 
     public function getNome():string {
@@ -87,6 +97,30 @@ class Usuario {
         $conexao->fechaConexao();
     }
 
+    public function login(): bool {
+        $conexao = new ConexaoPostgreSQL();
+        $db_connection = $conexao->abreConexao();
+        $result = pg_query($db_connection, "SELECT * FROM usuario WHERE email = '".$this->email."' AND senha = '".$this->senha."';");
+        $linhasRetornadas = pg_num_rows($result);
+        return $linhasRetornadas == 1;
+    }
+
+    public function listarMinhasAnotacoes(): array{
+        $vetAnotacao = array();
+        $conexao = new ConexaoPostgreSQL();
+        $db_connection = $conexao->abreConexao();
+        $result = pg_query($db_connection, "SELECT * FROM anotacao where usuario_id = ".$this->id.";");
+        while ($registro = pg_fetch_array($result)) {
+            $anotacao = new Anotacao();
+            $anotacao->setId($registro['id']);
+            $anotacao->setTitulo($registro['titulo']);
+            $anotacao->setDescricao($registro['descricao']);
+            $vetAnotacao[] = $anotacao;
+        }
+        $conexao->fechaConexao();
+        return $vetAnotacao;
+    }
+
     public static function listar() {
         $vetUsuario = array();
         $conexao = new ConexaoPostgreSQL();
@@ -122,11 +156,23 @@ class Usuario {
             unset($anotacao);
         }
     }
-}
 
-// $igor = new Usuario("Telecken", "teleck2en@gmail.com", "123");
-// echo $igor->getNome(); # 
-// $igor->cadastrar();
+      public function obter(string $email): void {
+        $vetUsuario = array();
+        $conexao = new ConexaoPostgreSQL();
+        $db_connection = $conexao->abreConexao();
+        $result = pg_query($db_connection, "SELECT * FROM usuario WHERE email = '".trim($email)."';");
+        while ($registro = pg_fetch_array($result)) {
+            $this->id = $registro['id'];
+            $this->nome = $registro['nome'];
+            $this->email  = $registro['email'];
+            $this->senha = $registro['senha'];
+            echo $registro['eh_admin'];
+            $this->ehAdmin = $registro['eh_admin'];
+        }
+        $conexao->fechaConexao();
+    }
+}
 
 class Anotacao {
     private int $id;
@@ -149,6 +195,14 @@ class Anotacao {
 
     public function getTitulo(): string {
         return $this->titulo;
+    }
+
+      public function setDescricao(string $descricao): void {
+        $this->descricao = $descricao;
+    }
+
+    public function getDescricao(): string {
+        return $this->descricao;
     }
 
     public function setUsuario(Usuario $usuario): void {
@@ -188,11 +242,10 @@ class PessoaFisica extends Usuario {
     }
 }
 
-$pessoafisica = new PessoaFisica();
-$pessoafisica->setNome("igor");
-$pessoafisica->setCpf("11111111111");
-
-print_r($pessoafisica->getCpf());
+// $pessoafisica = new PessoaFisica();
+// $pessoafisica->setNome("igor");
+// $pessoafisica->setCpf("11111111111");
+// print_r($pessoafisica->getCpf());
 
 
 ?>

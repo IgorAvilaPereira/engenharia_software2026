@@ -2,9 +2,6 @@
     require_once "modelo.php";
     require_once("lib/raelgc/view/Template.php");
     use raelgc\view\Template;
-    // echo "<pre>";
-    //     print_r($vetUsuario[0]->getEmail());
-    // echo "</pre>";
     $vetUsuario = Usuario::listar();
     $tpl = new Template("listar.html");
     foreach($vetUsuario as $usuario) {

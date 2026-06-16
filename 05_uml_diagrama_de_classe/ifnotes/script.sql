@@ -19,3 +19,6 @@ CREATE TABLE anotacao (
     data_hora timestamp default current_timestamp,
     usuario_id integer references usuario (id)
 );
+ALTER TABLE anotacao RENAME texto TO descricao;
+alter table usuario ADD COLUMN eh_admin BOOLEAN DEFAULT false;
+

@@ -46,13 +46,21 @@
                     </div>
 
                     <div>
-                        <input class="btn btn-primary" type="submit" value="cadastrar">
+                        <input class="btn btn-primary" type="submit" value="Cadastrar">
                     </div>
                 </form>
             </div>
         </div>
+        <form action="/login.php" method="post">
+
+                <input class="form-control" type="email" placeholder="Entre seu email" id="formEmail"
+                            name="email" />
+            <input class="form-control" type="password" placeholder="Senha" id="formPassword"
+                            autoComplete="nova-senha" name="senha" />
+                            <input class="btn btn-primary" type="submit" value="Login">
+        </form>
     </div>
-    <a href="/listar.php">Listar</a>
+
     <script src="./bootstrap.bundle.min.js"></script>
 </body>
 
