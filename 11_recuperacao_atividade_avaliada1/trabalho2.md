@@ -76,7 +76,7 @@ Representar a comunicação entre atores e componentes do sistema.
 
 ### Obrigatório:
 
-* Desenvolver **mínimo de 2 diagramas de sequência**;
+* Desenvolver **mínimo de 1 diagrama de sequência**;
 * Representar mensagens e ordem temporal;
 * Utilizar objetos ou componentes coerentes com os casos de uso.
 
@@ -101,7 +101,7 @@ Representar a comunicação entre atores e componentes do sistema.
 
 ## 4️⃣ Diagrama de Atividades (1,0)
 
-Modelar o fluxo completo de execução de **pelo menos 2 processos do sistema**.
+Modelar o fluxo completo de execução de **pelo menos 1 processos do sistema**.
 
 ### Obrigatório incluir:
 
