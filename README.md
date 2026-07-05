@@ -238,12 +238,13 @@ Padrões arquitetural de persistência:DAO (Data Acess Object)
 [trabalho2.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./11_recuperacao_atividade_avaliada1/trabalho2.md) <br>
 ## [./12_uml_diagrama_atividades_diagrama_sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./12_uml_diagrama_atividades_diagrama_sequencia) <br>
 [diagrama_atividades_elementos.jpeg](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagrama_atividades_elementos.jpeg) <br>
-[Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Diagramas Estruturais da UML_ Diagrama de Objetos – Micreiros.com.br.pdf) <br>
+[DiagramaDeAtividades1.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/DiagramaDeAtividades1.pdf) <br>
+[DiagramaDeAtividades2.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/DiagramaDeAtividades2.pdf) <br>
+[DiagramaDeAtividades3.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/DiagramaDeAtividades3.pdf) <br>
+[DiagramaDeObjetos1.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/DiagramaDeObjetos1.pdf) <br>
 [diagramas_ifnotes.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagramas_ifnotes.asta) <br>
 [diagramas_ifnotes.asta.lock](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/diagramas_ifnotes.asta.lock) <br>
 [engenharia_software.php](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/engenharia_software.php) <br>
-[Exemplos de diagramas de atividades (1).pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades (1).pdf) <br>
-[Exemplos de diagramas de atividades.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Exemplos de diagramas de atividades.pdf) <br>
 [img001.png](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/img001.png) <br>
 O **Diagrama de Atividades (Activity Diagram)** é um diagrama da **UML (Unified Modeling Language)** utilizado para representar o **fluxo de atividades, ações e decisões de um processo ou caso de uso**. Ele mostra **o que acontece e em qual sequência**, incluindo condições, paralelismo e encerramento.
 
@@ -315,9 +316,7 @@ Em trabalhos de Engenharia de Software, normalmente o diagrama de atividades cos
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/14_uml_diagrama_atividades_diagrama_sequencia) <br><br>
 &nbsp;
-[Topico 5 - UML - Diagrama de Atividade.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/Topico 5 - UML - Diagrama de Atividade.pdf) <br>
 [uml-diagrama-atividades_v01.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/uml-diagrama-atividades_v01.pdf) <br>
-[UML - Diagrama de Atividades - Purainfo.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/UML - Diagrama de Atividades - Purainfo.pdf) <br>
 [sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/sequencia) <br>
 ## [./13_atendimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./13_atendimento) <br>
 Atendimento
