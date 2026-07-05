@@ -320,9 +320,9 @@ Em trabalhos de Engenharia de Software, normalmente o diagrama de atividades cos
 [UML - Diagrama de Atividades - Purainfo.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/UML - Diagrama de Atividades - Purainfo.pdf) <br>
 [sequencia](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./12_uml_diagrama_atividades_diagrama_sequencia/sequencia) <br>
 ## [./13_atendimento](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./13_atendimento) <br>
-[*.*](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./13_atendimento/*.*) <br>
+Atendimento
 ## [./14_apresentacao_trabalho2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./14_apresentacao_trabalho2) <br>
-[*.*](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_apresentacao_trabalho2/*.*) <br>
+Apresentação
 ## [./15_fim_primeiro_semestre](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./15_fim_primeiro_semestre) <br>
 [papsuml3ed-exercicios-resolvidos.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/papsuml3ed-exercicios-resolvidos.pdf) <br>
 ## [./16_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./16_ciclo_de_vida_metodologias_ageis) <br>
