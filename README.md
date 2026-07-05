@@ -323,6 +323,9 @@ Atendimento
 ## [./14_apresentacao_trabalho2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./14_apresentacao_trabalho2) <br>
 Apresentação
 ## [./15_fim_primeiro_semestre](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./15_fim_primeiro_semestre) <br>
+[academia-br-requisitos-exercicio-pizzaria-02-resolucao.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/academia-br-requisitos-exercicio-pizzaria-02-resolucao.pdf) <br>
+[Classes-Exercicios.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/Classes-Exercicios.pdf) <br>
+[exerciciosDCUML5so_exercicio.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/exerciciosDCUML5so_exercicio.pdf) <br>
 [papsuml3ed-exercicios-resolvidos.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/papsuml3ed-exercicios-resolvidos.pdf) <br>
 ## [./16_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./16_ciclo_de_vida_metodologias_ageis) <br>
 [ciclo_de_vida_tradicional.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./16_ciclo_de_vida_metodologias_ageis/ciclo_de_vida_tradicional.md) <br>
