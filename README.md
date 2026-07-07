@@ -322,6 +322,14 @@ Em trabalhos de Engenharia de Software, normalmente o diagrama de atividades cos
 Atendimento
 ## [./14_apresentacao_trabalho2](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./14_apresentacao_trabalho2) <br>
 Apresentação
+## [./14_aula_arquitetura](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./14_aula_arquitetura) <br>
+[arquitetura_software_aula1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/arquitetura_software_aula1.md) <br>
+[arquitetura_software.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/arquitetura_software.md) <br>
+[introducao1.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/introducao1.md) <br>
+[introducao.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/introducao.md) <br>
+[mvc_mvp_mvvm.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/mvc_mvp_mvvm.md) <br>
+[![](https://img.plantuml.biz/plantuml/svg/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)](https://editor.plantuml.com/uml/ZP6nJiCm48PtFyL9p1bWh51Lf4QY4h2qMvJX6byJ8-C3sm6aXeT133m1Jv0Nu-n6LSI4vE6__-x-pvPN8QAF0MrKHrKKi2EBSCUjSGfWStZWI45K-OJ6Bg3IfZMH850FbAnQUbjo7SwRFSg0UAbPvQoapgSeCcIDeTipUYtMlP7n0EWuulWz_cJcyK8Di5d303UJ_yMfqAOnxD0dRIFvhChtnlOcU_wbDwySPFboW9t7FTgEGHEKhatNyWPJjUL3V4DFibATC-jSdLAplcxOibzuqii9SHgP83K8vcg0QQprH6u9j_n8W82zF3EEdn3vMPR-OFx3WHb9VIWrJm0bpegSpf_t2m00)
+[teoria.md](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./14_aula_arquitetura/teoria.md) <br>
 ## [./15_fim_primeiro_semestre](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./15_fim_primeiro_semestre) <br>
 [academia-br-requisitos-exercicio-pizzaria-02-resolucao.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/academia-br-requisitos-exercicio-pizzaria-02-resolucao.pdf) <br>
 [Classes-Exercicios.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/Classes-Exercicios.pdf) <br>
