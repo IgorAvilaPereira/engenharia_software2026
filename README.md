@@ -336,6 +336,31 @@ Apresentação
 [Classes-Exercicios.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/Classes-Exercicios.pdf) <br>
 [exerciciosDCUML5so_exercicio.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/exerciciosDCUML5so_exercicio.pdf) <br>
 [papsuml3ed-exercicios-resolvidos.pdf](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/papsuml3ed-exercicios-resolvidos.pdf) <br>
+**Presentes:**
+
+1. ALISSON rodrigues
+2. ANDREW
+3. ariel
+4. BRUNO
+5. CRISTOFER
+6. fabricio
+7. GIORDANO
+8. HENRIQUE
+9. IGOR
+10. josue francisco
+11. KATE
+12. LUCAS MALDMOL 2
+13. LUCAS ROSA 1
+14. LUCAS SCOTT HODD
+15. MATHEUS 2
+16. MATHEUS COSTA (DEPOIS) 3
+17. MATHEUS LESSA
+18. NICOLE
+19. NICOLLYE
+20. paulo cesar
+21. RAFAEL
+22. theo
+23. yAGO
 [uml.asta](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/uml.asta) <br>
 [codigo](https://github.com/IgorAvilaPereira/engenharia_software2026/blob/main/./15_fim_primeiro_semestre/codigo) <br>
 ## [./16_ciclo_de_vida_metodologias_ageis](https://github.com/IgorAvilaPereira/engenharia_software2026/tree/main/./16_ciclo_de_vida_metodologias_ageis) <br>
